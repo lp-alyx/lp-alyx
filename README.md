@@ -1,9 +1,3 @@
-<!--
-  ⚠️ AVANT DE PUSH : remplace partout
-     lp-alyx  -> ton pseudo GitHub (ex: alyx)
-     lp-alyx    -> le nom du repo de ton projet (pour le compteur d'étoiles)
--->
-
 <div align="center">
 
 <img src="./assets/banner.jpg" alt="Bannière" width="100%" />
@@ -47,21 +41,6 @@
 
 <br/>
 
-<!-- ───────────── PROJETS ─────────────
-  Pour ajouter un projet : python tools/new_card.py --help
-  puis colle la ligne <a ...><img .../></a> qu'il affiche, à la suite de la carte ci-dessous.
--->
-
-<div align="center">
-
-## 🚀 Projets
-
-<a href="https://github.com/lp-alyx/lp-alyx"><img src="./assets/cards/projet-1.svg" width="400" alt="Nom du projet" /></a>
-
-</div>
-
-<br/>
-
 <!-- ───────────── CONTACT ───────────── -->
 
 <div align="center">
@@ -70,8 +49,5 @@
 
 <a href="https://t.me/lp_alyx"><img src="./assets/buttons/telegram.svg" alt="Telegram" height="62" /></a>
 <a href="https://discord.com/users/1500972735482953801"><img src="./assets/buttons/discord.svg" alt="Discord" height="62" /></a>
-<a href="https://solscan.io/account/5sXWcT59x6XsG8Qzzrgit5UiRdZn5HqSt43YMXkKJr1k"><img src="./assets/buttons/solana.svg" alt="Solana" height="62" /></a>
-
-<sub>Solana : <code>5sXWcT59x6XsG8Qzzrgit5UiRdZn5HqSt43YMXkKJr1k</code></sub>
 
 </div>
