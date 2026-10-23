@@ -6,7 +6,6 @@
 
 <!-- ───────────── STATS ───────────── -->
 
-<img src="https://komarev.com/ghpvc/?username=lp-alyx&label=Vues&color=1f6feb&style=for-the-badge" alt="Vues du profil" />
 <img src="https://img.shields.io/github/stars/lp-alyx/lp-alyx?label=%C3%89toiles&logo=github&color=e3b341&style=for-the-badge" alt="Étoiles" />
 <img src="https://img.shields.io/badge/Projets-1-2ea043?style=for-the-badge&logo=githubactions&logoColor=white" alt="Projets" />
 
